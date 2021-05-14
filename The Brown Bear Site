@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang=" " dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Brown Bear</title>
+  </head>
+  <body>
+  <h1>The Brown Bear</h1>
+  <div id="introduction"
+    <h2>About Brown Bears</h2>
+    <p>The Brown Bear <em>(Ursus Arctos)</em> is native to parts of Northern Eurasia and North America.It's conservation status is currently <strong>least concern</strong>.<br><br>There are many subspecies within the brown bear species, incliding the Atlas Bear and the Himalayan brown bear. </p>
+    <h3>Species</h3>
+    <ul>
+    <li>Arctos</li>
+    <li>Collarus</li>
+    <li>Hoerribellis</li>
+    <li>Nelsoni (extinct)</li>
+    </ul>
+    <h3>Features</h3>
+<p>Brown bears are not always completely brown. Some can be reddish or yellowish, they have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears, they can range from five feet to nine feet from head to toe.</p>
+</div>
+<div id="Habitat">
+  <h2>Habitat</h2>
+  <h3>Countries with Large Brown Bear Population</h3>
+  <ol>
+    <li>Russia
+    <li>United States
+    <li>Canada</li>
+  </ol>
+<h3>Countries with small Brown Bear Population</h3>
+<p>Some countries with smaller brown bear populations include Armenia, Belaruse, BUlgaria, China, Fineland, France, Greece, India, Napal, Poland, Romania, Slovenia, Turkey, and Uzvekistan.</p>
+</div>
+<div id="Media">
+  <h2>Media</h2>
+  <img src="https://www.sciencenewsforstudents.org/wp-content/uploads/2021/04/1440_bb_brown_black_bear_explainer_feat.jpg" alt="Bears n' Flowers." style="width:147%">
+  <video src="http://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4"  width="320" height="240" controls>
+    
+  </video>
+  </div>
+  </body>
+  </html>
